@@ -1,4 +1,4 @@
-ANOTAÇÕES SOBRE O CURSO DE GIT DO BRUNO ORLANDI
+﻿ANOTAÇÕES SOBRE O CURSO DE GIT DO BRUNO ORLANDI
 =============================================================================================
 --- CURSO ---
 
@@ -38,7 +38,7 @@ ANOTAÇÕES SOBRE O CURSO DE GIT DO BRUNO ORLANDI
 	-> DOCUMENTAÇÃO DO SOFTWARE
 	-> MANUAL DO USUÁRIO
 
-=============================================================================================
+==============================================================================================
 --- CONTROLE DE VERSÃO ---
 
 *** EXEMPLO DE PROBLEMA, COMO O DROPBOX ***
